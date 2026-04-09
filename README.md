@@ -53,11 +53,7 @@ export ANTHROPIC_AUTH_TOKEN="你的API-KEY"
 # 安装/更新
 npm install -g @anthropic-ai/claude-code
 
-# 开启极速编程体验
+# 开启
 claude
 ```
 
-## 诚意退款协议
-
-* **24h 无忧体验：** 购买首日如不满意，**全额原路退款**。
-* **灵活下车：** 非购买当日，按剩余天数折算退款，1-3 个工作日内处理完毕。
